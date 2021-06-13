@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexHw", "NexHw\NexHw.csproj", "{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CBAE1E-5643-480A-A401-3DB3979C4DB1}
+	EndGlobalSection
+EndGlobal
