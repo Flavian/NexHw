@@ -2,10 +2,9 @@
 
 namespace NexHw.Interfaces
 {
-    interface IVehicle
+    public interface IVehicle
     {
         int ID { get; }
         List<string> JobTypes { get; }
-
     }
 }

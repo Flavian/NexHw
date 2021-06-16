@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace NexHw.DAL
 {
-    class Vehicle : IVehicle
+    public class Vehicle : IVehicle
     {
         public int ID { get; }
 

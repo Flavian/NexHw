@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexHw", "NexHw\NexHw.csproj", "{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTests", "MyTests\MyTests.csproj", "{A3254D38-082E-4336-9515-01E3631BACCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC1BE1F-2ABC-4B7E-A8BE-526644B03CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3254D38-082E-4336-9515-01E3631BACCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3254D38-082E-4336-9515-01E3631BACCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3254D38-082E-4336-9515-01E3631BACCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3254D38-082E-4336-9515-01E3631BACCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

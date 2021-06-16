@@ -1,8 +1,8 @@
 ﻿namespace NexHw.Interfaces
 {
-    interface IJob
+    public interface IJob
     {
-        int ID { get; set; }
-        string Type { get; set; }
+        int ID { get; }
+        string Type { get; }
     }
 }

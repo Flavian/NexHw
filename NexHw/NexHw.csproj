@@ -43,15 +43,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\SimpleJobFinder\Result.cs" />
+    <Compile Include="BLL\SimpleJobFinder\SimpelFinderVehicle.cs" />
+    <Compile Include="BLL\SimpleJobFinder\SimpleFinderJob.cs" />
+    <Compile Include="BLL\SimpleJobFinder\SimpleJobFinderStrategy.cs" />
+    <Compile Include="Interfaces\IJobFinderStrategy.cs" />
     <Compile Include="DAL\Job.cs" />
     <Compile Include="DAL\Vehicle.cs" />
     <Compile Include="Interfaces\IJob.cs" />
+    <Compile Include="Interfaces\IResult.cs" />
     <Compile Include="Interfaces\IVehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="mediordev.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
